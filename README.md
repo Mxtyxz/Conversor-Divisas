@@ -73,7 +73,4 @@ Java HTTP Client para realizar solicitudes HTTP.
 Contribuciones 🤝
 ¡Las contribuciones son bienvenidas! Si quieres agregar nuevas funcionalidades o mejorar el código, abre un Pull Request con tus cambios. Asegúrate de seguir las mejores prácticas para mantener el código limpio.
 
-Licencia 📄
-Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
 ¡Gracias por usar el Conversor de Divisas! Si tienes preguntas, abre un Issue o contáctame directamente.
