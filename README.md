@@ -1,5 +1,4 @@
 # Conversor-Divisas
- Conversor basico de divisas(USD, BRL, COP, ARS).
 Conversor de Divisas 💱
 Descripción 📝
 El Conversor de Divisas es una aplicación simple en Java que permite convertir montos de una moneda a otra utilizando tasas de cambio obtenidas en tiempo real desde una API de tipo cambio. Es ideal para personas que necesitan realizar conversiones rápidas entre diferentes divisas.
